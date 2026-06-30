@@ -8,9 +8,6 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Course](https://img.shields.io/badge/Course-MLPR%20%2F%20CDA-1B2A4A)
 
-**Predicting next-night sleep quality from 185 days of continuous wearable data**  
-University of Sarajevo · Faculty of Electrical Engineering  
-Merim Jusufbegovic · Professor: Aida Brankovic · June 2026
 
 </div>
 
